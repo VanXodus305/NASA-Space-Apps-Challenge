@@ -9,7 +9,7 @@
 
 **A stunning interactive web application showcasing the wonders of the James Webb Space Telescope**
 
-[🚀 Live Demo](#) | [📖 Documentation](#features) | [🛠️ Installation](#installation)
+[![🚀 Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Site-brightgreen?style=for-the-badge&logo=vercel)](https://jwst-techlicious.vercel.app/)
 
 </div>
 
